@@ -1,0 +1,16 @@
+HTTP/1.1 404 Not Found
+Content-Type: text/plain
+Date: Fri, 22 Nov 2024 14:28:10 GMT
+Content-Length: 18
+
+404 page not foundHTTP/1.1 201 Created
+Content-Type: application/json; charset=utf-8
+Date: Fri, 22 Nov 2024 14:28:10 GMT
+Content-Length: 96
+
+{
+    "id": "4",
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "quantity": 2
+}
